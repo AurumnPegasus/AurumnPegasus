@@ -1,4 +1,8 @@
 
+```zsh
+> neofetch
+```
+
 <img align="left" src="scott-webb-GQD3Av_9A88-unsplash.jpg" alt="picture" width="320" /> 
 
 ```csharp
