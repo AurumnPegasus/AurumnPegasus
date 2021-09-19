@@ -1,5 +1,17 @@
-<h3 align="center"> Hi there, I am Shivansh S. 👋 </h3>
 
-<p align='center'> I am a junior year student at IIIT-Hyderabad, and am interested in NLP, Competitive Programming and Fintech</p>
+<img align="left" src="scott-webb-GQD3Av_9A88-unsplash.jpg" alt="picture" width="320" /> 
 
-<img align="left" src="alexandru-acea-A3FohRFYW2A-unsplash.jpg" alt="picture" width="320" /> 
+```csharp
+anordinaryusername@github
+-------------------------
+OS: Elementary OS
+Shell: zsh 5.8
+Location: Mumbai, India
+Languages: JavaScript, Python,
+           C, C++. Assembly
+Interests: NLP, Fintech,
+           Competitive Coding
+Hobbies: Football, Reading
+Discord: shivu21#2065
+Mail: subramanian.shivansh@gmail.com
+```
