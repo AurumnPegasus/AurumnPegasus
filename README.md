@@ -12,7 +12,7 @@ OS: Elementary OS - Hera
 Shell: bash
 Location: Mumbai, India
 Languages: JavaScript, Python,
-           C, Cpp. Assembly
+           C, C++. Assembly
 Interests: NLP, Fintech,
            Competitive Coding
 Hobbies: Football, Reading
