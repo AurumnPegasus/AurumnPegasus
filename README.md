@@ -6,7 +6,7 @@
 <img align="left" src="scott-webb-GQD3Av_9A88-unsplash.jpg" alt="picture" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+aurumnpegasus@github
 -------------------------
 OS: Elementary OS
 Shell: zsh 5.8
