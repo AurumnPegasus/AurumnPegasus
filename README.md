@@ -17,5 +17,4 @@ Interests: NLP, Fintech,
            Competitive Coding
 Hobbies: Football, Reading
 Discord: shivu21#2065
-Mail: subramanian.shivansh@gmail.com
 ```
