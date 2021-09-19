@@ -8,8 +8,8 @@
 ```csharp
 aurumnpegasus@github
 -------------------------
-OS: Elementary OS
-Shell: zsh 5.8
+OS: Elementary OS 5.1.7 Hera
+Shell: bash
 Location: Mumbai, India
 Languages: JavaScript, Python,
            C, C++. Assembly
