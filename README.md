@@ -8,7 +8,7 @@
 ```csharp
 aurumnpegasus@github
 -------------------------
-OS: Elementary OS 5.1.7 Hera
+OS: Elementary OS - Hera
 Shell: bash
 Location: Mumbai, India
 Languages: JavaScript, Python,
