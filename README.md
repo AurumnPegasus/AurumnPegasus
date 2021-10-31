@@ -8,8 +8,8 @@
 ```csharp
 aurumnpegasus@github
 -------------------------
-OS: Elementary OS - Hera
-Shell: bash
+OS: PopOS 20.04 LTS
+Shell: zsh
 Location: Mumbai, India
 Languages: JavaScript, Python,
            C, C++. Assembly
