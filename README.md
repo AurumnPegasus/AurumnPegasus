@@ -8,11 +8,11 @@
 ```csharp
 aurumnpegasus@github
 -------------------------
-OS: PopOS 20.04 LTS
+OS: PopOS 21.10 LTS
 Shell: zsh
 Location: Mumbai, India
 Languages: JavaScript, Python,
-           C, C++. Assembly
+           C, C++
 Interests: NLP, Fintech,
            Competitive Coding
 Hobbies: Football, Reading
